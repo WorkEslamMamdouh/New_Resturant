@@ -20,6 +20,7 @@ namespace SlsTrSales {
     var CategoryDetails: Array<CATEGRES> = new Array<CATEGRES>();
     var Category: Array<CATEGRES> = new Array<CATEGRES>();
     var familly_CatDetails: Array<familly_Cat> = new Array<familly_Cat>();
+
     var MasterDetailModel: SlsInvoiceMasterDetails = new SlsInvoiceMasterDetails();
     var InvoiceModel: ORDER_Master = new ORDER_Master();
     var List: Array<Stok_ORDER_DELIVERY> = new Array<Stok_ORDER_DELIVERY>();
