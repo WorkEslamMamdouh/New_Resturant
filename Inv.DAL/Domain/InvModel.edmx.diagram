@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="caa02454dce84defb863ae2d35d173dc" Name="Diagram1" ZoomLevel="68">
+        <EntityTypeShape EntityType="InvModel.CATEGRES" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.EMPLOYEE" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.Enter_Money" Width="1.5" PointX="2.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.familly_Cat" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_AlertControl" Width="1.5" PointX="4.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_AlertLog" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_AlertType" Width="1.5" PointX="6.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_BRANCH" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_Codes" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_COMPANY" Width="1.5" PointX="2.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_CONTROL" Width="1.5" PointX="8.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_COST_CENTER" Width="1.5" PointX="4.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_Currency" Width="1.5" PointX="6.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_ModuleHelp" Width="1.5" PointX="8.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_MODULES" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_Nationality" Width="1.5" PointX="10.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_News" Width="1.5" PointX="12.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_Noteifications" Width="1.5" PointX="12.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_NotificationCompany" Width="1.5" PointX="12.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_PaperSize" Width="1.5" PointX="8.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_REGION" Width="1.5" PointX="10.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_REGION_BRANCH" Width="1.5" PointX="12.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_ReportWebSetting" Width="1.5" PointX="14.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_Role" Width="1.5" PointX="4.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_RoleModule" Width="1.5" PointX="14.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_RoleUsers" Width="1.5" PointX="14.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_SearchForm" Width="1.5" PointX="6.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_SearchFormModule" Width="1.5" PointX="16.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_SearchFormSetting" Width="1.5" PointX="16.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_STORE" Width="1.5" PointX="16.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_SUB_SYSTEMS" Width="1.5" PointX="12.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_SYSTEM" Width="1.5" PointX="16.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_TransCounter" Width="1.5" PointX="18.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_TransCounterSetting" Width="1.5" PointX="18.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_USER_BRANCH" Width="1.5" PointX="18.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_USER_COMPANY" Width="1.5" PointX="18.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_USER_LOG" Width="1.5" PointX="14.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.G_USERS" Width="1.5" PointX="18.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.I_Control" Width="1.5" PointX="0.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.ORDER_DELIVERY" Width="1.5" PointX="2.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.Outlet" Width="1.5" PointX="8.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.PRODUCT" Width="1.5" PointX="20.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.Purchases_Details" Width="1.5" PointX="20.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.Purchases_Master" Width="1.5" PointX="4.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.Report_Parameters" Width="1.5" PointX="20.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.Settings_Report" Width="1.5" PointX="10.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.Stok_ORDER_DELIVERY" Width="1.5" PointX="20.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.Supplier" Width="1.5" PointX="20.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.Table_two_days" Width="1.5" PointX="20.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.The_Gard" Width="1.5" PointX="12.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InvModel.GQ_GetUserBarnchAccess" Width="1.5" PointX="15.375" PointY="21.75" />
+        <EntityTypeShape EntityType="InvModel.GQ_GetUserBranch" Width="1.5" PointX="21.375" PointY="22.75" />
+        <EntityTypeShape EntityType="InvModel.GQ_GetUserModule" Width="1.5" PointX="23.375" PointY="0.75" />
+        <EntityTypeShape EntityType="InvModel.GQ_GetUserRole" Width="1.5" PointX="7.375" PointY="23.75" />
+        <EntityTypeShape EntityType="InvModel.GQ_GetUsers" Width="1.5" PointX="9.375" PointY="23.75" />
+        <EntityTypeShape EntityType="InvModel.GQ_Notifications" Width="1.5" PointX="23.375" PointY="12.75" />
+        <EntityTypeShape EntityType="InvModel.GQ_ReportWebSetting" Width="1.5" PointX="23.375" PointY="17.75" />
+        <EntityTypeShape EntityType="InvModel.IQ_Outlet" Width="1.5" PointX="17.375" PointY="23.75" />
+        <EntityTypeShape EntityType="InvModel.IQ_Purchases_Details" Width="1.5" PointX="3.375" PointY="24.75" />
+        <EntityTypeShape EntityType="InvModel.IQ_Purchases_Master" Width="1.5" PointX="23.375" PointY="24.75" />
+        <EntityTypeShape EntityType="InvModel.ReviewSalesMaster" Width="1.5" PointX="25.375" PointY="0.75" />
+        <EntityTypeShape EntityType="InvModel.HIJRA_CONVERT" Width="1.5" PointX="25.375" PointY="6.75" />
+        <EntityTypeShape EntityType="InvModel.I_VW_GetCompStatus" Width="1.5" PointX="25.375" PointY="9.75" />
+        <EntityTypeShape EntityType="InvModel.ReviewSalesItemInfo" Width="1.5" PointX="25.375" PointY="12.75" />
+        <EntityTypeShape EntityType="InvModel.CUSTOMER" Width="1.5" PointX="25.375" PointY="17.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
