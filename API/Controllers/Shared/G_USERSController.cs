@@ -26,7 +26,7 @@ namespace Inv.API.Controllers
             this.G_USERSService = _G_USERSController;
             this.G_USER_BRANCHService = _G_USER_BRANCHService;
 
-        }
+        } 
 
         [HttpGet, AllowAnonymous]
         public IHttpActionResult GetAllUser()
